@@ -1,4 +1,4 @@
-# Portfólio - Vinícius Garcia
+# Portfólio - Vinicius Garcia
 
 ## Sobre
 
@@ -16,4 +16,4 @@ Utilizar este repositório para acompanhar minha evolução e registrar todos os
 
 ## Autor
 
-Vinícius Garcia
+Vinicius Garcia
